@@ -24,7 +24,7 @@ website:
           - href: extra.qmd
             text: Side Quests
       - href: resume.qmd
-        text: Resume
+        text: CV
 
 format:
   html:
