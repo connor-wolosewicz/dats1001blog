@@ -1,5 +1,102 @@
 ---
-title: "Resume"
+title: "Curriculum Vitae"
+toc: true
+toc-location: left
 ---
 
-[Download Resume (PDF)](WolosewiczResume2.pdf)
+**George Washington University**, Columbian School of Arts and Sciences — Washington, DC *May 2026*
+*Summa Cum Laude* — B.S. Environmental and Sustainability Science; Political Science (Public Policy Focus)
+
+Relevant coursework: Planning Cities · State & Urban Policy · Ecology · Field Methods in Geography · Environmental Law & Policy
+
+**The University of Sydney** — Sydney, Australia *Spring 2025*
+Study Abroad Program
+
+---
+
+## Research Experience
+
+**Researcher — Green Area Ratio** · GWU Department of Geography & Environment
+*Spring – Summer 2026*
+
+- Studied DC's Green Area Ratio, a performance-based zoning policy, with Dr. Melissa Keeley (GWU) and Andrea Krug (DOEE), evaluating how private developers implement mandated landscape requirements across varied development types; paper published August 2026 in MDPI's *Sustainability*
+- Conducted primary research interviewing 10+ stakeholders across public agencies and private developers for a second paper, incorporating preliminary data visualizations, written analyses, and structured reporting
+
+**Researcher — Bioswale Management Project** · GWU Department of Geography & Environment
+*Spring 2026*
+
+- Conducted structured site surveys across DC's green infrastructure network, documenting infrastructure conditions, vegetation, and site-level data across multiple properties; compiled findings into a research report with data visualization and analysis
+
+**Researcher — Rock Creek Park** · GWU Department of Geography & Environment
+*Spring 2024*
+
+- Collected physical data on several bioindicators of forest health across study sites; compiled findings for research reports
+
+---
+
+## Publications
+
+Keeley, M., Krug, A. H., Berglund, N., Wolosewicz, C., & Sorrels, A. (2026). The Green Area Ratio: Nature-Based Solutions Regulation in Washington DC. *Sustainability*, 18(16), 8179. <https://doi.org/10.3390/su18168179>
+
+---
+
+## Work Experience
+
+**Dock Manager** · Freedom Boat Club — Chicago, IL
+*Summer 2022 – Present*
+
+- Began as Dock Master in a seasonal role, independently supervising 5 team members; promoted to Dock Manager, training and managing a staff of 11 — handling dock finances, scheduling, tip division, and performance evaluations
+- Managed daily logistics for 20+ reservations/day, oversaw cash handling and budget tracking, developed onboarding materials and process documentation, and achieved the top corporate inspection score among Chicago-area locations
+- Responded to on-water emergencies safely and responsibly, including piloting out to tow stranded passengers
+
+**Server / Bartender** · Chicago Highlands — Westchester, IL
+*Spring 2026 – Present*
+
+- Delivered personalized food and beverage service in an upscale private club, building rapport with a high-standard membership through professional communication and attention to detail
+- Set up, executed, and broke down private events of 30+ people, including engagement parties and member functions
+
+**Server / Bartender** · Él Bebe — Washington, DC
+*Fall 2025 – Spring 2026*
+
+- Provided exceptional service in a fast-paced environment, maintaining expertise on 50+ tequila varieties and complex menu items while delivering personalized recommendations; at times handling 35+ guests
+
+**Front of House Team Member** · Tap99 — Washington, DC
+*Fall 2024 – Summer 2025*
+
+- Communicated a novel self-serve concept to guests, supported event setup, and hosted weekly trivia for 30+ guests
+
+**Intern** · PropCode — Sydney, Australia
+*Spring 2025*
+
+- Worked closely with the CEO and co-founder of an urban planning AI startup to coordinate the collection, review, and organization of dense zoning, land use, and planning regulations across multiple jurisdictions — translating complex regulatory content into structured spreadsheets and clear written summaries
+- Used QGIS to produce property-based spatial datasets integrating jurisdictional planning data with site-level analysis
+
+---
+
+## Leadership, Activities & Community Service
+
+**Director of Recruitment** · Delta Tau Delta, Gamma Eta Chapter — GWU
+*Spring 2024 – Fall 2024*
+
+- Elected for two consecutive semesters
+- Recruited the most new members of any fraternity chapter in Spring 2024; organized new-member events and worked with the executive board to carry out a cohesive recruitment strategy
+
+**Volunteer** · OneWorld GW — GWU
+*Fall 2022 – Spring 2025*
+
+- Partnered with local nonprofit organizations on community service projects across the DC area
+
+**Volunteer** · Appalachia Service Project — Appalachia
+*July 2018, 2019, 2021*
+
+- Improved substandard housing with a church group, including installing drywall, soffit, and appliances
+
+---
+
+## Skills, Awards & Interests
+
+**Skills:** Conversational Spanish · Microsoft Suite (Excel, Word, PowerPoint) · Google Workspace · Canva · Esri ArcGIS · RStudio · QGIS
+
+**Awards:** GW Presidential Scholar (2022–2026) · Dean's List (six semesters)
+
+**Interests:** Natural resource management · Urban planning · Ecology · Architecture · Volleyball · Dance · Ceramics · Boating · Running
