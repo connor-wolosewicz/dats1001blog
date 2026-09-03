@@ -1,8 +1,9 @@
 ---
 title: "Curriculum Vitae"
 toc: true
-toc-location: left
 ---
+
+## Education
 
 **George Washington University**, Columbian School of Arts and Sciences — Washington, DC *May 2026*
 *Summa Cum Laude* — B.S. Environmental and Sustainability Science; Political Science (Public Policy Focus)
@@ -36,7 +37,7 @@ Study Abroad Program
 
 ## Publications
 
-Keeley, M., Krug, A. H., Berglund, N., Wolosewicz, C., & Sorrels, A. (2026). The Green Area Ratio: Nature-Based Solutions Regulation in Washington DC. *Sustainability*, 18(16), 8179. <https://doi.org/10.3390/su18168179>
+Keeley, M., Krug, A. H., Berglund, N., Wolosewicz, C., & Sorrels, A. (2026). The Green Area Ratio: Nature-Based Solutions Regulation in Washington DC. *Sustainability*, 18(16), 8179. [https://doi.org/10.3390/su18168179](https://doi.org/10.3390/su18168179)
 
 ---
 
